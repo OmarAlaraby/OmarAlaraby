@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OmarAlaraby&theme=radical&hide=issues" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=OmarAlaraby&theme=radical&row=2" alt="Trophy" />
   </a>
 </p>
 
