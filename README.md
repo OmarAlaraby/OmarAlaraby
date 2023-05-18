@@ -24,7 +24,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlaraby&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Little-Lemon&theme=radical" alt="Little Lemon Repository" />
