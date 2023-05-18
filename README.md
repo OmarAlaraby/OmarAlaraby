@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarAlaraby&show_icons=true&theme=radical&card_width=700px" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlaraby&layout=compact&theme=radical&card_width=300px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlaraby&layout=compact&theme=radical&card_width=300px&card_hight=400px" alt="Top Languages" />
 </p>
 
 <p align="center">
