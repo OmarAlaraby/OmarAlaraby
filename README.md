@@ -16,8 +16,6 @@
 </p>
 
 
-<p align="center">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Little-Lemon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Codeforces-Tasks-API&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Hotel-Reservation-System&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
