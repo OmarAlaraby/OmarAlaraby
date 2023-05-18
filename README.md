@@ -1,5 +1,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmarAlaraby&theme=radical)](https://git.io/streak-stats)
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAlaraby&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarAlaraby&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlaraby&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
