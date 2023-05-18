@@ -5,13 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarAlaraby&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlaraby&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarAlaraby&show_icons=true&theme=radical&card_width=700px" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlaraby&layout=compact&theme=radical&card_width=300px" alt="Top Languages" />
 </p>
 
 <p align="center">
