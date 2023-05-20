@@ -71,7 +71,7 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAlaraby&theme=radical&card_width=500px" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAlaraby&theme=radical&card_width=520px" alt="GitHub Streak" />
   </a>
 </p>
 
