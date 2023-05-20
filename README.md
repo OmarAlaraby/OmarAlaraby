@@ -87,11 +87,10 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Little-Lemon&theme=radical" />
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Little-Lemon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=little-lemon-API&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Codeforces-Tasks-API&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=CP-Templates&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=The-Final-Project-ODC&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Hotel-Reservation-System&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Whats-app-add-members-Script&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=little-lemon-API&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Codeforces-Tasks-API&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=CP-Templates&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=The-Final-Project-ODC&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Hotel-Reservation-System&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Whats-app-add-members-Script&theme=radical" />
 </div>
