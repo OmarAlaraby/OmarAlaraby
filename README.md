@@ -66,7 +66,7 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarAlaraby&show_icons=true&theme=radical&card_width=300px" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarAlaraby&show_icons=true&theme=radical&card_width=250px" alt="Anurag's GitHub stats" />
 </p>
 
 <p align="center">
