@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/CodeForces-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/CodeForces-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/LeetCode-#33CC33?style=for-the-badge&logo=leetcode&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-green?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode Badge"/>
   </a>
 </div>
 
