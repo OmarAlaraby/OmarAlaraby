@@ -49,7 +49,7 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
 <div align="center" >
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75" hight="75" style="margin-right: 10px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="75" hight="75" style="margin-right: 10px;"/>
-   <img src="https://github.com/OmarAlaraby/Omar-Alaraby/assets/99359641/f2ceb096-d001-441e-bff2-38d5b5161f3f" />
+   <img src="https://github.com/OmarAlaraby/Omar-Alaraby/assets/99359641/f2ceb096-d001-441e-bff2-38d5b5161f3f" width="75" hight="75" style="margin-right: 10px;"/>
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="75" hight="75" style="margin-right: 30px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="75" hight="75" style="margin-right: 10px;"/>
