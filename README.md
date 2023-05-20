@@ -1,5 +1,17 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" hight="200"/>
+   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="250" hight="250"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/omar-alaraby-253702232/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 <p align="center">
