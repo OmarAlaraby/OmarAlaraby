@@ -1,3 +1,7 @@
+<head>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
+
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="300" hight="200"/>
 </div>
@@ -49,7 +53,6 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="75" hight="75" style="margin-right: 10px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="75" hight="75" style="margin-right: 10px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="75" hight="75" style="margin-right: 10px;"/>
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
    <i class="devicon-django-plain-wordmark"></i>
 </div>
 
