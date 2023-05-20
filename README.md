@@ -42,8 +42,15 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Omar_Alaraby-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-alaraby-253702232/)
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 
 
 
