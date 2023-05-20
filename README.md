@@ -30,7 +30,15 @@
 ---
 ### :man_technologist: About Me :
 
+I am a competitive programmer and Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
+- :telescope: Currently i'm IT member at ICPC SCU.
+
+- :seedling: learning Data structure and algorithms and practice on solving problems.
+
+- :zap: In my free time, I work on my own projects.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-alaraby-253702232/)
 
 
 
