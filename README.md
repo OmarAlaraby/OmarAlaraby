@@ -55,14 +55,11 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="75" hight="75" style="margin-right: 10px;"/>
 </div>
 
+<br><br><br>
 
+---
 
-
-
-
-
-
-<br><br><br><br><br><br>
+### :fire: My Stats :
 
 <p align="center">
   <a href="https://git.io/streak-stats">
