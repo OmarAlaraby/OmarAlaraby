@@ -50,7 +50,8 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75" hight="75" style="margin-right: 10px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="75" hight="75" style="margin-right: 10px;"/>
    <img src="https://github.com/OmarAlaraby/Omar-Alaraby/assets/99359641/d98243ba-8da8-4eb2-bee4-c19fa69aee6c" width="75" hight="75" style="margin-right: 10px;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="75" hight="75" style="margin-right: 10px;"/>
+   <img src="https://github.com/OmarAlaraby/Omar-Alaraby/assets/99359641/a8c3db77-7d90-4b15-88ce-e287890744e8" width="75" hight="75" style="margin-right: 10px;"/>
+
 </div>
 
 <br><br><br>
