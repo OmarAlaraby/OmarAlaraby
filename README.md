@@ -86,6 +86,7 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
 ### :sparkles: My Repositories :
 
 <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Little-Lemon&theme=radical" />
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Little-Lemon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=little-lemon-API&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Codeforces-Tasks-API&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
