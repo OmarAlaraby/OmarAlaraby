@@ -1,24 +1,4 @@
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/OmarAlaraby/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/OmarAlaraby/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/OmarAlaraby/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/OmarAlaraby/github-readme-stats">
-      <img src="https://codecov.io/gh/OmarAlaraby/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/OmarAlaraby/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/OmarAlaraby/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/OmarAlaraby/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/OmarAlaraby/github-readme-stats?color=0088ff" />
-    </a>
-</p>
-  
-  
-
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAlaraby&theme=radical&card_width=700px" alt="GitHub Streak" />
   </a>
