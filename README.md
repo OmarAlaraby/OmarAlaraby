@@ -69,8 +69,9 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarAlaraby&show_icons=true&theme=radical&card_width=400px" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlaraby&layout=compact&theme=radical&card_width=300px&card_hight=800px" alt="Top Languages" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlaraby&layout=compact&theme=radical&card_width=300px" alt="Top Languages" />
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
