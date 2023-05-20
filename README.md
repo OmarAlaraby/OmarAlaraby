@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/CodeForces-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/LeetCode-green?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-gold?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode Badge"/>
   </a>
 </div>
 
