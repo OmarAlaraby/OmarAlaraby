@@ -14,6 +14,10 @@
   </a>
 </div>
 
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=OmarAlaraby&style=flat-square&color=blue" alt=""/>
+</div>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAlaraby&theme=radical&card_width=700px" alt="GitHub Streak" />
