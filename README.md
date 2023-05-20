@@ -62,16 +62,16 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
 ### :fire: My Stats :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarAlaraby&show_icons=true&theme=radical&card_width=400px" alt="Anurag's GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlaraby&layout=compact&theme=radical&card_width=200px" alt="Top Languages" />
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlaraby&layout=compact&theme=radical&card_width=300px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarAlaraby&show_icons=true&theme=radical&card_width=300px" alt="Anurag's GitHub stats" />
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAlaraby&theme=radical&card_width=700px" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAlaraby&theme=radical&card_width=500px" alt="GitHub Streak" />
   </a>
 </p>
 
