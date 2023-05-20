@@ -81,7 +81,16 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
   </a>
 </p>
 
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Little-Lemon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Codeforces-Tasks-API&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Hotel-Reservation-System&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### :sparkles: My Repositories :
+
+<div align="center">
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Little-Lemon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=little-lemon-API&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Codeforces-Tasks-API&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=CP-Templates&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=The-Final-Project-ODC&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Hotel-Reservation-System&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Whats-app-add-members-Script&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
