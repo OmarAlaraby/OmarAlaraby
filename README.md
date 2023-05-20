@@ -38,7 +38,7 @@ I am a competitive programmer and Back-End Developer <img src="https://media.gip
 
 - :zap: In my free time, I work on my own projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-alaraby-253702232/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Omar_Alaraby-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-alaraby-253702232/)
 
 
 
