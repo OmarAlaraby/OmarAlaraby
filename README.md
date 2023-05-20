@@ -18,6 +18,13 @@
    <img src="https://komarev.com/ghpvc/?username=OmarAlaraby&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h1>
+  Hi There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<br><br><br><br><br><br>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAlaraby&theme=radical&card_width=700px" alt="GitHub Streak" />
