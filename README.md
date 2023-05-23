@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/omar-alaraby-253702232/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://codeforces.com/profile/Omar_Alaraby">
     <img src="https://img.shields.io/badge/CodeForces-orange?style=for-the-badge&logo=codeforces&logoColor=black" alt="codeforces Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://leetcode.com/G016/">
     <img src="https://img.shields.io/badge/LeetCode-gold?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode Badge"/>
   </a>
 </div>
