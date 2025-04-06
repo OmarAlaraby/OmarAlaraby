@@ -131,17 +131,4 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=OmarAlaraby&repo=Codeforces-Tasks-API&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&hide_border=true" />
   </a>
   
-  <!-- Third Row -->
-  <a href="https://github.com/OmarAlaraby/Django-API-StackOverflow">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=OmarAlaraby&repo=Django-API-StackOverflow&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&hide_border=true" />
-  </a>
-  <a href="https://github.com/OmarAlaraby/Hotel-Reservation-System">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=OmarAlaraby&repo=Hotel-Reservation-System&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/OmarAlaraby?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
-  </a>
 </div>
