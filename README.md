@@ -68,7 +68,7 @@
         <img width="60" src="https://media.giphy.com/media/ek1fFLlsAMBTlhERZj/giphy.gif">
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Working_on_Projects-786fa6?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Working on Projects"/>
+        <img src="https://img.shields.io/badge/-Working_on_Projects-786fa6?style=for-the-badge&logo=python&logoColor=white" alt="Working on Projects"/>
         <br>
         <img width="60" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif">
       </td>
