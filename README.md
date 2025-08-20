@@ -25,6 +25,18 @@
     <img src="https://img.shields.io/badge/🌐_Check_out_my_Portfolio-40E0D0?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" width="300"/>
   </a>
   
+  <p>
+    <a href="./OmarAlarabyCV.pdf" download>
+      <img src="https://img.shields.io/badge/📄_Download_My_Resume-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" width="300"/>
+    </a>
+  </p>
+  
+  <p>
+    <a href="./OmarAlarabyCV.pdf">
+      <img src="https://img.shields.io/badge/👁️_View_My_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View Resume" width="300"/>
+    </a>
+  </p>
+  
   <table align="center" border="0">
     <tr>
       <td align="center">
