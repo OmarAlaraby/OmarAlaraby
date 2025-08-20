@@ -14,56 +14,84 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6495ED&center=true&width=600&lines=Competitive+Programmer;Backend+Engineer;Django+%26+Golang+Developer;ECPC+Finalist;Instructor+at+Coach+Academy" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6495ED&center=true&width=600&lines=Competitive+Programmer;Backend+Engineer;Django+%26+Golang+Developer;ECPC+Finalist;Instructor+at+Coach+Academy" alt="Typing SVG" /></a>
   
-  <p>Passionate about solving complex problems and building robust applications</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/✨-Passionate_about_solving_complex_problems-6c5ce7?style=plastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀-Building_robust_applications-0984e3?style=plastic&logoColor=white" />
+  </p>
   
-  <a href="https://omar-alaraby-portfolio.onrender.com/">
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </p>
+  
+  <a href="https://omar-alaraby-portfolio.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Check_out_my_Portfolio-40E0D0?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" width="300"/>
   </a>
   
-  <p>
+  <h3 align="center">📝 My Resume</h3>
+  <kbd>
     <a href="./OmarAlarabyCV.pdf" download>
       <img src="https://img.shields.io/badge/📄_Download_My_Resume-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" width="300"/>
     </a>
-  </p>
-  
-  <p>
+  </kbd>
+  <br><br>
+  <kbd>
     <a href="./OmarAlarabyCV.pdf">
       <img src="https://img.shields.io/badge/👁️_View_My_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View Resume" width="300"/>
     </a>
+  </kbd>
+  
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </p>
+  
+  <h3 align="center">🏆 Achievements & Focus</h3>
   
   <table align="center" border="0">
     <tr>
       <td align="center">
-        <img width="40" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"><br>
-        <b>Instructor at Coach Academy</b>
+        <img src="https://img.shields.io/badge/-Instructor_at_Coach_Academy-6a89cc?style=for-the-badge&logo=academia&logoColor=white" alt="Instructor at Coach Academy"/>
+        <br>
+        <img width="60" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
       </td>
       <td align="center">
-        <img width="40" src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif"><br>
-        <b>ECPC Finalist</b>
+        <img src="https://img.shields.io/badge/-ECPC_Finalist-546de5?style=for-the-badge&logo=e&logoColor=white" alt="ECPC Finalist"/>
+        <br>
+        <img width="60" src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif">
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img width="40" src="https://media.giphy.com/media/ek1fFLlsAMBTlhERZj/giphy.gif"><br>
-        <b>Learning DSA</b>
+        <img src="https://img.shields.io/badge/-Learning_DSA-574b90?style=for-the-badge&logo=datacamp&logoColor=white" alt="Learning DSA"/>
+        <br>
+        <img width="60" src="https://media.giphy.com/media/ek1fFLlsAMBTlhERZj/giphy.gif">
       </td>
       <td align="center">
-        <img width="40" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif"><br>
-        <b>Working on Projects</b>
+        <img src="https://img.shields.io/badge/-Working_on_Projects-786fa6?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Working on Projects"/>
+        <br>
+        <img width="60" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif">
       </td>
     </tr>
   </table>
   
   <p align="center">
-    <b>Contact Me:</b><br>
-    <a href="https://www.linkedin.com/in/omar-alaraby-253702232/"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>&nbsp;&nbsp;
-    <a href="mailto:omar.alaraby23@gmail.com"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/></a>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </p>
+  
+  <h3 align="center">📬 Get in Touch</h3>
+  <p align="center">
+    <kbd>
+      <a href="https://www.linkedin.com/in/omar-alaraby-253702232/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </kbd>
+    &nbsp;
+    <kbd>
+      <a href="mailto:omar.alaraby23@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </kbd>
   </p>
 </div>
 
