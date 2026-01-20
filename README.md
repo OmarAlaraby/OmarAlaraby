@@ -51,7 +51,7 @@
   <table align="center" border="0">
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Instructor_at_Coach_Academy-6a89cc?style=for-the-badge&logo=academia&logoColor=white" alt="Instructor at Coach Academy"/>
+        <img src="https://img.shields.io/badge/-Instructor_at_Coach_Academy-6a89cc?style=for-the-badge&logo=academia&logoColor=white" alt="Software Engineer at Sahl"/>
         <br>
         <img width="60" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
       </td>
